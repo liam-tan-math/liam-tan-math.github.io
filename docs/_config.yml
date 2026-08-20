@@ -1,9 +1,9 @@
 title: Liam Tan
 description: Mathematics PhD student at the University of Illinois Chicago.
 logo: /assets/images/liam-photo.png
-url: "https://liam-tan.github.io"
+url: "https://liam-tan-math.github.io"
 baseurl: ""
-github_username: liam-tan
+github_username: liam-tan-math
 theme: jekyll-theme-minimal
 show_downloads: false
 plugins:
