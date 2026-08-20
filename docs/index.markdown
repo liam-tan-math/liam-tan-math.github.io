@@ -4,6 +4,9 @@ layout: default
 
 I am a mathematics PhD student at the University of Illinois, Chicago. I previously did my undergrad at UC Berkeley, where I double majored in Mathematics and Computer Science. Prior to doing math, I dabbled in AI/RL research and was advised by Sergey Levine.
 
+**Office:** SEO 716<br>
+**Email:** ltan23[at]uic.edu
+
 ## Research interests
 
 - **Mathematical Logic.** Ideas in computability theory, model theory, and set theory.
