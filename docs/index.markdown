@@ -13,9 +13,7 @@ I am a mathematics PhD student at the University of Illinois, Chicago. I previou
 
 ## Other Interests
 
-- **AI in Math.** Interested in automated theorem proving and the mathematical capabilities of AI systems.
 - **Stats/TCS/EE.** Vaguely interested in applied math related to probability, optimization, and theoretical computer science.
-- **Scaling in AI.** Interested in the computational and algorithmic foundations of scaling, training, and improving large AI models.
 
 ## Mathematics Papers
 
